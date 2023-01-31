@@ -1,1 +1,1 @@
-message: “Starting to code today, so cool”
+message: “How to be up to date in git"
